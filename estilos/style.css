@@ -17,7 +17,7 @@
 } /* FIM ADOBE COLOR*/
 
 body{
-    background-color: var(--color4);
+    background-color: black;
     height: 100vh;
 }
 
@@ -48,7 +48,7 @@ h2.titulo{
 }
 
 h2.titulo span{
-    color: #00e5ff;
+    color: #00ff08;
 }
 
 button:hover, form .btn-enviar input[type=submit]:hover{
