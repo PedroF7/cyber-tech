@@ -16,6 +16,18 @@
         display: none;
     }
 
+    /* MENU MOBILE */
+    .btn-abrir-menu {
+        display: block;
+    }
+
+    .btn-abrir-menu i {
+        font-size: 12vh;
+        margin-left: 20px;
+    }
+
+        
+
     /* TOPO DO SITE */
     section.topo-do-site{
         padding: 20px 8%;
