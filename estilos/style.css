@@ -141,12 +141,15 @@ header nav.menu-desktop ul li{
     font-weight: 300;
     padding: 20px 21%;
     display: block;
-    margin-left: 20px;
 }
 
 .menu-mobile nav ul li a:hover{
     background-color: #00ff08;
     color: black;
+}
+
+.menu-mobile li{
+    margin-left: 10vw;
 }
 
 .overlay-menu{
