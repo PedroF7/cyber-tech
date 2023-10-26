@@ -141,6 +141,7 @@ header nav.menu-desktop ul li{
     font-weight: 300;
     padding: 20px 21%;
     display: block;
+    margin-right: 12vw;
 }
 
 .menu-mobile nav ul li a:hover{
@@ -148,9 +149,6 @@ header nav.menu-desktop ul li{
     color: black;
 }
 
-.menu-mobile li{
-    margin-left: 10vw;
-}
 
 .overlay-menu{
     background-color: #00000069;
