@@ -75,6 +75,7 @@
     /* CONHECIMENTOS */
     section.conhecimentos{
         padding: 80px 8%;
+        box-shadow: nome;
     }
 
     .img-port{
