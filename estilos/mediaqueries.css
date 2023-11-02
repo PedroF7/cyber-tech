@@ -88,6 +88,9 @@
     }
 
     /* RODAPÉ */
+    footer{
+        box-shadow: none;
+    }
     footer .flex{
         flex-direction: column;
         gap: 30px;
